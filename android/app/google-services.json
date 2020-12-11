@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324031637529",
+    "firebase_url": "https://agendadorcomunitario.firebaseio.com",
+    "project_id": "agendadorcomunitario",
+    "storage_bucket": "agendadorcomunitario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324031637529:android:205f0bad3ec8230760a288",
+        "android_client_info": {
+          "package_name": "com.example.agendador_comunitario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324031637529-qjrjnfreaca2mujsa0t9shiag2n6k959.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy2SpONAFQn5nHfRLZeymRmizNyFWG4lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324031637529-qjrjnfreaca2mujsa0t9shiag2n6k959.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

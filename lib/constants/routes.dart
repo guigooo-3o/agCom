@@ -1,0 +1,11 @@
+const String LoginPageRoute = "LoginPage";
+const String SignUpPageRoute = "SignUpPage";
+const String HomePageRoute = "HomePage";
+const String OfflineHomePageRoute= "OfflineHomePage";
+const String OnlineHomePageRoute= "OnlineHomePage";
+const String ProfilePageRoute= "ProfilePage";
+const String CreateActivityPageRoute= 'CreateActivityPageRoute';
+const String InfoActivityPageRoute='InfoActivityPageRoute';
+const String InfoActivityHistoricoPageRoute='InfoActivityHistoricoPageRoute';
+const String InfoActivityMenu='InfoActivityMenu';
+const String MyActivityPageRoute = "MinhasAtividades";
